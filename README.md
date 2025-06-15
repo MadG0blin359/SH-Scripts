@@ -15,7 +15,9 @@ This repository houses various Shell Scripts programming practice problems and a
 I've structured the repository to make it easy to navigate and locate specific assignments or practice sets.
 
 ## Folder Structure
-
+- **`Notes/`**: Study Material - Focused on Shell basics, including $ commands, if-elif-else, loops, case, functions, strings, and more.
+- **`Projects/`**: Innovation Hub - Fun projects implemented in Shell, each in its separate folder.
+- **`Scripts/`**: Stash - Practice problems and exercises from Operating Systems lab sessions.
 
 ## How to Use
 Use your preferred shell terminal (Windows or Linux).
